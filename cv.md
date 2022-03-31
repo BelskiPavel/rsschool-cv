@@ -52,3 +52,4 @@ I would like to try myself in a new field, and therefore returned to learning.
 # Languages
 
 **English** – A1/A2
+**Russian** - native
